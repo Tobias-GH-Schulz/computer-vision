@@ -2,7 +2,9 @@
 
 ***
 
-<img align="right" alt="Snape" width="400" height="250" src="https://media.giphy.com/media/nRMNBsprKN0zLpaiHO/giphy-downsized-large.gif"/>
+<p align="center">
+<img alt="contourdetection" width="400" height="250" src="https://media.giphy.com/media/nRMNBsprKN0zLpaiHO/giphy-downsized-large.gif">
+</p>
 
 
 
