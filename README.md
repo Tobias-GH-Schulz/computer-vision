@@ -17,7 +17,7 @@ In this repository you will find small projects I have done to start learning ab
 - [OpenCV Basics] (# opencv-basics)
 	- [Annotations](#beginner-tutorials)	
 - [Image processing](#tensorflow-tutorials)
-	- [Beginner Tutorials](#beginner-tutorials)
+	- [Meme Creator](#Meme-Creator)
 	- [Architectures](#CNN-Architectures)
 - [Object detection](#pytorch-tutorials)
 	- [Red objects](#basics)
