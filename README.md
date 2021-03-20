@@ -29,7 +29,7 @@ In this repository you will find small projects I have done to start learning ab
 ## OpenCV Basics
 ### Day or night recognition
 Use case: Detect if a picture was taken by night or on the day<br>
-Computer vision skills applied: histograms, convert color space<br>
+Computer vision skills applied: histograms, convert color space.<br>
 Repository url: [Day or night recognition](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Day%20or%20night%20recognition)<br>
   
 
@@ -40,8 +40,8 @@ Computer vision skills applied: draw rectangle, write text.<br>
 Repository url: [Meme creator](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Meme%20creator)<br>
 
 ### Green screen
-Use case: Create a meme by loading an image and putting some text in a box on to it.<br>
-Computer vision skills applied: draw rectangle, write text.<br>
+Merging a green screen image with a background. (picture and video)
+Computer vision skills applied: Color conversion, channel splitting, masking, merging.
 Repository url: [Green screen](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Meme%20creator)<br>
 
 
