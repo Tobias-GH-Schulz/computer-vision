@@ -21,8 +21,9 @@ In this repository you will find small projects I have done to start learning ab
 	- [Green screen](#Green-screen)
 - [Object detection and tracking](#pytorch-tutorials)
 	- [Object detection by color](#Object-detection-by-color)
+	- [Simple template matching](#Simple-template-matching)
 	- [Face and eye detection](#face-and-eye-detection)
-    - [Object Detection](#Object-Detection)
+   
 	- [Generative Adversarial Networks](#Generative-Adversarial-Networks)
 	- [Architectures](#architectures)
 
@@ -55,7 +56,7 @@ Repository url: [Object detection by color](https://github.com/Tobias-GH-Schulz/
 ### Simple template matching
 Use case: Detect areas in a given image that match a certain template. <br>
 Computer vision skills applied: template matching <br>
-Repository url: [Object detection by color](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Object%20detection%20by%20color)<br>
+Repository url: [Simple template matching](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Object%20detection%20by%20color)<br>
 
 
 ### Face and eye detection
