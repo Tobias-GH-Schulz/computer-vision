@@ -18,7 +18,7 @@ In this repository you will find small projects I have done to start learning ab
 	- [Day or night recognition](#day-or-night-recognition)	
 - [Image processing](#tensorflow-tutorials)
 	- [Meme Creator](#Meme-Creator)
-	- [Architectures](#CNN-Architectures)
+	- [Green screen](#Green-screen)
 - [Object detection and tracking](#pytorch-tutorials)
 	- [Object detection by color](#Object-detection-by-color)
 	- [More Advanced](#more-advanced)
@@ -39,13 +39,19 @@ Use case: Create a meme by loading an image and putting some text in a box on to
 Computer vision skills applied: draw rectangle, write text.<br>
 Repository url: [Meme creator](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Meme%20creator)<br>
 
+### Green screen
+Use case: Create a meme by loading an image and putting some text in a box on to it.<br>
+Computer vision skills applied: draw rectangle, write text.<br>
+Repository url: [Green screen](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Meme%20creator)<br>
+
 
 
 ## Object detection and tracking
 ### Object detection by color
 Use case: Detect objects in a given image by a color.<br>
 Computer vision skills applied: contour detection, thresholding, masking
-Repository url: [Object detection by color](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Meme%20creator)<br>
+Repository url: [Object detection by color](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Object%20detection%20by%20color)<br>
+
 
 
 
