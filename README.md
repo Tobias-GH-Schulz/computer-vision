@@ -52,10 +52,16 @@ Use case: Detect objects in a given image by a color. <br>
 Computer vision skills applied: contour detection, thresholding, masking <br>
 Repository url: [Object detection by color](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Object%20detection%20by%20color)<br>
 
+### Simple template matching
+Use case: Detect areas in a given image that match a certain template. <br>
+Computer vision skills applied: template matching <br>
+Repository url: [Object detection by color](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Object%20detection%20by%20color)<br>
+
+
 ### Face and eye detection
 Use case: Detect faces and eyes on a given image or video. <br>
 Computer vision skills applied: CascadeClassifier, frontalface classifier, eye classifier <br>
-Repository url: [Object detection by color](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Object%20detection%20by%20color)<br>
+Repository url: [Face and eye detection](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Face%20detector)<br>
 
 
 
