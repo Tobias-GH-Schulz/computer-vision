@@ -56,7 +56,7 @@ Repository url: [Object detection by color](https://github.com/Tobias-GH-Schulz/
 ### Simple template matching
 Use case: Detect areas in a given image that match a certain template. <br>
 Computer vision skills applied: template matching <br>
-Repository url: [Simple template matching](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Object%20detection%20by%20color)<br>
+Repository url: [Simple template matching](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Simple%20template%20matching)<br>
 
 
 ### Face and eye detection
