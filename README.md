@@ -42,7 +42,7 @@ Repository url: [Meme creator](https://github.com/Tobias-GH-Schulz/computer-visi
 ### Green screen
 Merging a green screen image with a background. (picture and video)
 Computer vision skills applied: Color conversion, channel splitting, masking, merging.
-Repository url: [Green screen](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Meme%20creator)<br>
+Repository url: [Green screen](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Green%20screen)<br>
 
 
 
