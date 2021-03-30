@@ -25,6 +25,7 @@ In this repository you will find small projects I have done to start learning ab
 	- [Object detection by color](#Object-detection-by-color)
 	- [Simple template matching](#Simple-template-matching)
 	- [Face and eye detection](#face-and-eye-detection)
+	- [YOLO object tracking](#YOLO-object-tracking)
 	- [Simple object tracking](#simple-object-tracking)
 
 
@@ -77,7 +78,7 @@ Repository url: [Face and eye detection](https://github.com/Tobias-GH-Schulz/com
 ### YOLO object detection 🐶🐱🐵🚗🚌🚚🚲🍏🍌    
 Use case: Detect objects on a given video using YOLO. <br>
 Computer vision skills applied: Using YOLOv3 aglorithm to detect objects <br>
-Repository url: [Simple object tracking](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Simple%20object%20tracking)<br>
+Repository url: [Simple object tracking](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/YOLO%20object%20tracking)<br>
 
 ### Simple object tracking 🚘➡️➡️➡️🚗
 Use case: Track objects over time on a given video. <br>
