@@ -17,7 +17,7 @@ In this repository you will find small projects I have done to start learning ab
 - [OpenCV Basics] (#opencv-basics)
 	- [Day or night recognition](#Day-or-night-recognition)
 	- [Coin detector] (#Coin-detector)
-	- [Handwriting recogninition] (#Handwriting-recognition)	
+	- [Handwriting-recogninition] (#Handwriting-recognition)	
 - [Image processing](#tensorflow-tutorials)
 	- [Meme Creator](#Meme-Creator)
 	- [Green screen](#Green-screen)
@@ -33,7 +33,7 @@ In this repository you will find small projects I have done to start learning ab
 ### 🌞 Day or night 🌛 recognition 
 Use case: Detect if a picture was taken by night or on the day <br>
 Computer vision skills applied: histograms, convert color space. <br>
-Repository url: [Day or night recognition](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Day%20or%20night%20recognition)<br>
+Repository url: [Day or night recognition](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/OpenCV%20basics/Day%20or%20night%20recognition)<br>
 
 ### Coin detector 💰
 Use case: Detect and count euro coins on an image. <br>
@@ -43,19 +43,19 @@ Repository url: UNDER CONSTRUCTION <br>
 ### Handwriting recognition ✏️
 Use case: Detect handwritten numbers on an image and classify these numbers. <br>
 Computer vision skills applied: blurring, Hough transformation, contour finding <br>
-Repository url: [Handwriting recognition] (https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Handwriting%20recognition)<br>
+Repository url: [Handwriting recognition] (https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/OpenCV%20basics/Handwriting%20recognition)<br>
   
 
 ## Image processing
 ### Meme creator 😺
 Use case: Create a meme by loading an image and putting some text in a box on to it. <br>
 Computer vision skills applied: draw rectangle, write text. <br>
-Repository url: [Meme creator](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Meme%20creator)<br>
+Repository url: [Meme creator](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Image%20processing/Meme%20creator)<br>
 
 ### Green screen 🎥
 Merging a green screen image with a background. (picture and video) <br>
 Computer vision skills applied: Color conversion, channel splitting, masking, merging. <br>
-Repository url: [Green screen](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Green%20screen)<br>
+Repository url: [Green screen](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Image%20processing/Green%20screen)<br>
 
 
 
@@ -63,27 +63,27 @@ Repository url: [Green screen](https://github.com/Tobias-GH-Schulz/computer-visi
 ### Object detection by color 📕📗📘 
 Use case: Detect objects in a given image by a color. <br>
 Computer vision skills applied: contour detection, thresholding, masking <br>
-Repository url: [Object detection by color](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Object%20detection%20by%20color)<br>
+Repository url: [Object detection by color](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Object%20detection%20and%20tracking/Object%20detection%20by%20color)<br>
 
 ### Simple template matching 
 Use case: Detect areas in a given image that match a certain template. <br>
 Computer vision skills applied: template matching <br>
-Repository url: [Simple template matching](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Simple%20template%20matching)<br>
+Repository url: [Simple template matching](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Object%20detection%20and%20tracking/Simple%20template%20matching)<br>
 
 ### Face and eye detection 😳
 Use case: Detect faces and eyes on a given image or video. <br>
 Computer vision skills applied: CascadeClassifier, frontalface classifier, eye classifier <br>
-Repository url: [Face and eye detection](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Face%20detector)<br>
+Repository url: [Face and eye detection](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Object%20detection%20and%20tracking/Face%20detector)<br>
 
 ### YOLO object detection 🐶🐱🐵🚗🚌🚚🚲🍏🍌    
 Use case: Detect objects on a given video using YOLO. <br>
 Computer vision skills applied: Using YOLOv3 aglorithm to detect objects <br>
-Repository url: [Simple object tracking](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/YOLO%20object%20tracking)<br>
+Repository url: [Simple object tracking](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Object%20detection%20and%20tracking/YOLO%20object%20tracking)<br>
 
 ### Simple object tracking 🚘➡️➡️➡️🚗
 Use case: Track objects over time on a given video. <br>
 Computer vision skills applied: BackgroundSubtractor, ROI, contour finding. <br>
-Repository url: [Simple object tracking](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Simple%20object%20tracking)<br>
+Repository url: [Simple object tracking](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Object%20detection%20and%20tracking/Simple%20object%20tracking)<br>
 
 
 

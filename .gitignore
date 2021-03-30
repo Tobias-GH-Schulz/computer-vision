@@ -132,3 +132,4 @@ dmypy.json
 
 YOLO object detection/Models/coco/yolov3.weights
 YOLO object detection/Models/yolov3/yolov3.weights
+*.weights
