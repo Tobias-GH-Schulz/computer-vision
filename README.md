@@ -17,7 +17,7 @@ In this repository you will find small projects I have done to start learning ab
 - [OpenCV Basics] (#opencv-basics)
 	- [Day or night recognition](#Day-or-night-recognition)
 	- [Coin detector] (#Coin-detector)
-	- [Handwriting-recogninition] (#Handwriting-recognition)	
+	- [Handwriting recogninition] (#Handwriting-recognition)
 - [Image processing](#tensorflow-tutorials)
 	- [Meme Creator](#Meme-Creator)
 	- [Green screen](#Green-screen)
