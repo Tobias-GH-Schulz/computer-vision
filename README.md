@@ -36,13 +36,13 @@ Repository url: [Day or night recognition](https://github.com/Tobias-GH-Schulz/c
 
 ### Coin detector 💰
 Use case: Detect and count euro coins on an image. <br>
-Computer vision skills applied: blurring, Hough transformation, building a pytorch dataset
-Repository url: [Coin detector](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Coin%20detector)<br>
+Computer vision skills applied: blurring, Hough transformation, building a pytorch dataset  <br>
+Repository url: UNDER CONSTRUCTION <br>
 
 ### Handwriting recognition ✏️
 Use case: Detect handwritten numbers on an image and classify these numbers. <br>
-Computer vision skills applied: blurring, Hough transformation, contour finding, building a pytorch dataset
-Repository url: [Handwriting recognition](https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Handwriting%20recognition)<br>
+Computer vision skills applied: blurring, Hough transformation, contour finding <br>
+Repository url: [Handwriting recognition] (https://github.com/Tobias-GH-Schulz/computer-vision/tree/main/Handwriting%20recognition)<br>
   
 
 ## Image processing
